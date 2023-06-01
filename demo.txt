@@ -1,1 +1,2 @@
-This is a demo app 
+This is a demo app
+Intended to test the github-monitor-integration tool
